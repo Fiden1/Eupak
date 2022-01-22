@@ -24,3 +24,4 @@ int main() {
 	else if (a < 13) { cout << "Количество дней в месяце: " << e << endl; }
 	else if (a > 12) { cout << "Ошибка ввода месяца" << endl; }
 	return 0;
+}
